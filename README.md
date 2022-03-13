@@ -18,7 +18,7 @@
 Modular NeoVim configuration inspired by [@thanhvule0310](https://github.com/thanhvule0310/dotfiles/tree/main/nvim) nvimrc.
 
 ### Preview
-
+![image](https://github.com/betty2310/file/blob/main/nvim/out.png?raw=true)
 ### Instalation
 First, clone my repo to your .config.
 ```bash
