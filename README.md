@@ -34,13 +34,12 @@ $ nvim + PackerInstall
 | :------------: | ------------------------------------------------------------------------------------------------------------- |
 | Plugin Manager | [packer.nvim](https://github.com/wbthomason/packer.nvim)                                                      |
 |  File Manager  | [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)                                                  |
-|  Status line   | [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)                                                 |
-|  Buffer line   | [nvim-cokeline](https://github.com/noib3/nvim-cokeline)                                                          |
+|  Status line   | [feline.nvim](https://github.com/nvim-lualine/lualine.nvim)                                                 |
+|  Buffer line   | [nvim-bufferline](https://github.com/noib3/nvim-cokeline)                                                          |
 |  Colorscheme   | [onenord.nvim](https://github.com/betty2310/onenord.nvim)                                                       |
 |      Icon      | [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)                                          |
 |      Git       | [gitsign](https://github.com/lewis6991/gitsigns.nvim) |
 | Auto Complete  | [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)                                                    |
-| Debug          | [vimspector](https://github.com/puremourning/vimspector)                                                    |
 
 ### Keybinds
 <kbd>leader</kbd> is <kbd>SPACE</kbd>
